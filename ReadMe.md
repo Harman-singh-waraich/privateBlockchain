@@ -64,7 +64,7 @@ now,from your terminal navigate to the project folder,then run :
 
 ## Authors
 
-* **Harmeet Singh** - [Get in touch](www.linkedin.com/in/harmeet-singh-b45b11190)
+* **Harmeet Singh** - 
 
 ## License
 
