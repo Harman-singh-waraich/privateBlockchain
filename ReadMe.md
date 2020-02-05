@@ -62,9 +62,9 @@ now,from your terminal navigate to the project folder,then run :
 3.[npm](https://docs.npmjs.com/about-npm/) :- package manager
 
 
-## Authors
+## Author
 
-* **Harmeet Singh** - 
+* **Harmeet Singh** 
 
 ## License
 
